@@ -1,0 +1,27 @@
+
+.cart {
+    border: solid red 2px;
+    }
+    
+    .total {
+      border: solid blue 2px;
+      margin: 20px;
+      display: flex;
+      align-items: center;
+      background-color: blue;
+      padding:20px;
+    }
+  
+    .cart span.emoji {
+      border: solid green 2px;
+      font-size: 30px;
+      border-radius: 490%;
+      padding: 5px 10px 5px 10px;
+      background-color: white;
+    }
+  
+    .amount {
+      color: white;
+      font-size: 20px; 
+      margin-left: 10px; 
+    }
